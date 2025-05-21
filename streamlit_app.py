@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Mochammad pRizqi")
+st.title("Mochammad Syahputra pRizqi")
 st.write(
-    "Belajar Seru Bersama iqi Syah"
+    "Belajar Seru Bersama Iqi Syah"
     
